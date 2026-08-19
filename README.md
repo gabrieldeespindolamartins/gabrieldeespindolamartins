@@ -15,6 +15,9 @@
 ### Estudando
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Java Spring](https://shields.io)
+![Docker](https://shields.io) 
+![Kubernetes](https://shields.io)
 
 ### Ferramentas
 
